@@ -1,1 +1,1 @@
-# Gulp-mjml
+# gulp-mjml-email
